@@ -19,3 +19,7 @@ Run 'npm i' and seed the database, then run 'node index' to start the applicatio
 A screenshot of the working application:
 
 [Example image](./assets/images/Example.PNG)
+
+A link to a video demonstration showing working example:
+
+[MySQL Demo](https://drive.google.com/file/d/1T00TkJasJAuROfMZ2GM3oHwBeFFfNfcQ/view)
